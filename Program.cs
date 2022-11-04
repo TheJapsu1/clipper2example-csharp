@@ -19,4 +19,8 @@ polyline.Add(Clipper.MakePath(path));
 // Offset polyline
 PathsD solution = Clipper.InflatePaths(polyline, 200, JoinType.Miter, EndType.Square);
 
-// Draw polyline & use it
+// Debug polyline
+foreach (PathD pathObj in solution)
+{
+    Console.WriteLine(pathObj.ToString());
+}

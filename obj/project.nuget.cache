@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sNSUNumPbiKoWGoRGbX6CmoVRZp4IMWGmR7s3I9HFSlVePU6Ge/rWwlco1G//5ttbiFRIIfKeWaPJTGP+xQqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\japsu\\RiderProjects\\clipper2thing\\clipper2thing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\japsu\\.nuget\\packages\\clipper2\\1.0.5\\clipper2.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
